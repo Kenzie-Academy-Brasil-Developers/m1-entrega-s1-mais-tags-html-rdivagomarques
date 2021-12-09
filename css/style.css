@@ -1,0 +1,8 @@
+#container-a {
+ background-color: azure; 
+ text-transform: uppercase;
+}
+#container-b {
+  background-color: rgb(172, 203, 204);
+  text-transform: uppercase;
+}
